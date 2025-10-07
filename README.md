@@ -1,16 +1,53 @@
-## Hi there 👋
+<h2 align="center">⚡ Always building, always learning ⚡</h2>
 
-<!--
-**brendo-pereira-viegas/brendo-pereira-viegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<section align="center">
+   <img
+      src="https://skillicons.dev/icons?i=cs"
+      height="40"
+      alt="C# logo"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+      src="https://skillicons.dev/icons?i=ts"
+      height="40"
+      alt="TypeScript logo"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+      src="https://skillicons.dev/icons?i=html"
+      height="40"
+      alt="HTML5 logo"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+      src="https://skillicons.dev/icons?i=css"
+      height="40"
+      alt="CSS logo"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+      src="https://skillicons.dev/icons?i=docker"
+      height="40"
+      alt="Docker logo"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+      src="https://skillicons.dev/icons?i=git"
+      height="40"
+      alt="Git logo"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/brendo-pereira-viegas/" target="_blank">
+      <img
+         src="https://skillicons.dev/icons?i=linkedin"
+         height="40"
+         alt="LinkedIn logo"
+      />
+   </a>
+</section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<section align="center">
+   <img
+      src="https://github-readme-stats.vercel.app/api?username=brendo-pereira-viegas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false"
+      alt="GitHub stats graph"
+      height="200"
+   />
+</section>
