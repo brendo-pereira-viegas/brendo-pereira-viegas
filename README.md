@@ -41,3 +41,13 @@
       />
    </a>
 </section>
+
+###
+
+<section align="center">
+   <img
+      src="https://github-readme-stats.vercel.app/api?username=brendo-pereira-viegas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false"
+      alt="GitHub stats graph"
+      height="200"
+   />
+</section>
