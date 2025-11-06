@@ -1,4 +1,6 @@
-<h2 align="center">⚡ Always building, always learning ⚡</h2>
+<section align="center">
+   <h2>⚡ Always building, always learning ⚡</h2>
+</section>
 
 ###
 
